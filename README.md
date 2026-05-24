@@ -11,6 +11,11 @@
 </div>
 
 ---
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Cloud Computing**, **Cibersegurança** e **Desenvolvimento de Software**. Atualmente ampliando minha stack com AWS, Linux e práticas de segurança em redes.
+
+---
 
 ## 🎓 Formação
 
@@ -42,10 +47,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-     
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allanydias&theme=jolly)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allanydias&theme=jolly)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=allanydias&theme=jolly)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allanydias&theme=jolly&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allanydias&theme=jolly)
 
-</div>
+
 
 ---
 

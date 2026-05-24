@@ -2,12 +2,6 @@
 
 # Allany Dias
 
-**Análise e Desenvolvimento de Sistemas · Cloud · Cibersegurança**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanydias)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanydias)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
 </div>
 
 ---
@@ -49,8 +43,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Cloud 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allanydias&theme=jolly)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allanydias&theme=jolly)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=allanydias&theme=jolly)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allanydias&theme=jolly&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allanydias&theme=jolly)
 
-
-
 ---
 
 ## 📬 Contato
@@ -60,6 +52,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Cloud 
 Aberto a oportunidades em Cloud, Segurança e Desenvolvimento. Vamos conversar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanydias)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanydiasnave@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanydiastech@gmail.com)
 
 </div>

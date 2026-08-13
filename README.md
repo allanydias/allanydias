@@ -12,8 +12,10 @@ struct AboutMe {
   let pronouns = ["she", "her"]
 
   var education = [
+    "AWS Certified Cloud Practitioner"
     "ADS — SENAC Embarque Digital",
     "Técnico em Multimídia — ETE Cícero Dias"
+    
   ]
 
   var focus = ["Cloud Computing", "Cibersegurança", "Desenvolvimento de Software"]
